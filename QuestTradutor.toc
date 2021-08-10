@@ -1,0 +1,18 @@
+﻿## Interface: 30300
+## Title: QuestTradutor
+## OrigTitle: WoWpoPolsku-Quests / WowTranslator
+## Version:  1100
+## Notes_en: AddOn displays the translated quest informations.
+## Notes: Tradução de quests no World of Warcraft Legacy (vanilla, tbc, wotlk) 
+## PortAuthor: leoaviana 
+## AddonAuthor: Platine
+## DefaultState: Enabled
+## LoadOnDemand: 0 
+## SavedVariables: QTR_PS, QTRTTT_PS
+
+QuestList.lua
+QuestData_BR.lua
+ToolTipData_BR.lua
+Gossip_BR.lua 
+Init\QuestTradutorInit.lua
+QuestTradutor.lua
